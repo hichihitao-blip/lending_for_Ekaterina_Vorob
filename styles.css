@@ -272,7 +272,7 @@ h1, h2, h3 {
 
 .profile-img {
     width: 100%;
-    height: auto;
+    height: 90%;
     display: block;
     transition: transform 0.5s ease;
 }
@@ -792,4 +792,5 @@ h1, h2, h3 {
     .mobile-menu-btn {
         display: flex;
     }
+
 }
